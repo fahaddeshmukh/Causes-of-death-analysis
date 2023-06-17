@@ -1,0 +1,50 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Exploratory Data for the case of the death in Past decade
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Fahad
+    family-names: Deshmukh
+    email: deshmukh@uni-potsdam.de
+    affiliation: University of Potsdam
+repository-code: 'https://gitup.uni-potsdam.de/deshmukh/rse1'
+abstract: >-
+  Description of the dataset and research questions:
+
+
+  The "Causes of death" dataset provides insights into the
+  causes of deaths among German males and females from 2011
+  to 2020.
+
+  This dataset is particularly intriguing as it allows us,
+  as mortals, to explore the factors that have led to the
+  demise of
+
+  our predecessors over the last decade. It presents an
+  opportunity to investigate if the causes of death exhibit
+  any
+
+  gender disparities and whether these causes have remained
+  consistent throughout the entire decade.
+
+
+  The dataset encompasses approximately 35 distinct causes
+  of death, offering a comprehensive overview of
+
+  the various factors contributing to mortality.
+
+  By analyzing this dataset, we can gain valuable insights
+  into the mortality trends,
+
+  potential gender-based variations in causes of death, and
+  any shifts or consistencies
+
+  that may have occurred during the ten-year period.
+license: MIT
+version: '2.0'
+date-released: '2023-06-11'
