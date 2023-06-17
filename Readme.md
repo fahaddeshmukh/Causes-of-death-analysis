@@ -18,7 +18,7 @@ The project is structured as follows:
 ## User Guide
 To use this project, follow the steps below:
 
-1. Clone the repository: git clone https://gitup.uni-potsdam.de/deshmukh/rse1
+1. Clone the repository: git clone https://github.com/fahaddeshmukh/Causes-of-death-analysis
 
 
 2. Install the required dependencies: pip install -r requirements.txt
@@ -43,12 +43,12 @@ To use this project, follow the steps below:
 6. You can also run the Computational Narrative file (Deaths_EDA.ipynb) which gives comprahensive overview and summary for the results.
 ## License
 This project is licensed under the MIT License. Feel free to modify and adapt the code for your own purposes.
-URL for License: https://gitup.uni-potsdam.de/deshmukh/rse1/-/blob/master/LICENSE.MD
+URL for License: https://github.com/fahaddeshmukh/Causes-of-death-analysis/blob/main/LICENSE.MD
 
 ## Citation Information
 
 Citation information for this project can be found in the Citation files in the directory.
-URL for Citations: https://gitup.uni-potsdam.de/deshmukh/rse1/-/blob/master/CITATION%20.cff
+URL for Citations: https://github.com/fahaddeshmukh/Causes-of-death-analysis/blob/main/CITATION.cff
 ## Acknowledgments
 The data used in this project was obtained from [https://www.destatis.de/EN/Themes/Society-Environment/Population/Current-Population/_node.html]. 
 ## Contact Information
