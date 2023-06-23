@@ -33,7 +33,7 @@ To use this project, follow the steps below:
 - Navigate to the project directory.
 - Execute the following command (make sure the directories are matching or change the directory/edit the location):
   ```
-   python D:/RSE1/bin/src.py D:/RSE1/data/Death_DE.csv
+   python D:/Causes-of-death-analysis/bin/src.py D:/Causes-of-death-analysis/data/Death_DE.csv
 
   ```
 
