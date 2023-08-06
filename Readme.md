@@ -31,9 +31,9 @@ To use this project, follow the steps below:
 4. Run the analysis:
 - Open the command-line interface.
 - Navigate to the project directory.
-- Execute the following command (make sure the directories are matching or change the directory/edit the location):
+- Execute the following command from the project repository:
   ```
-   python D:/Causes-of-death-analysis/bin/src.py D:/Causes-of-death-analysis/data/Death_DE.csv
+   python bin/src.py data/Death_DE.csv
 
   ```
 

@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 from data_processing import load_dataframe, clean_dataframe
 
 
-FILE_PATH = 'D:/RSE1/data/Death_DE.csv'
+FILE_PATH = '..\\data\\Death_DE.csv'
 
 #Basic descreptive statistics
 
