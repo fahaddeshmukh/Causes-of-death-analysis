@@ -1,4 +1,4 @@
-# Exploratory Data Analysis of the Causes of Deaths in the Past Decade
+# Exploring Mortality Patterns: A Comprehensive Analysis of Diverse Causes of Death
 
 This project aims to perform an exploratory data analysis (EDA) on a dataset containing information about causes of deaths over the past decade. The dataset is stored in the "data" directory, and the analysis is conducted using the Python programming language.
 
